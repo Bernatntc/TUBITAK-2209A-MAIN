@@ -1,4 +1,4 @@
-# TUB-TAK-2209A---MA-N
+# TUBITAK-2209A-MAIN
 ---
 
 ## 🧪 Ongoing Research (TÜBİTAK 2209-A)
